@@ -1,0 +1,84 @@
+[{
+	"Variant1": [{
+			"sample": "Sample 1",
+			"frequency": 1
+		},
+		{
+			"sample": "Sample 2",
+			"frequency": 0.666667
+		},
+		{
+			"sample": "Sample 3",
+			"frequency": 0.277778
+		},
+		{
+			"sample": "Sample 4",
+			"frequency": 0.5
+		},
+		{
+			"sample": "Sample 5",
+			"frequency": 0.555556
+		},
+		{
+			"sample": "Sample 6",
+			"frequency": 0.555556
+		},
+		{
+			"sample": "Sample 7",
+			"frequency": 0.9375
+		},
+		{
+			"sample": "Sample 8",
+			"frequency": 0
+		},
+		{
+			"sample": "Sample 9",
+			"frequency": 0.9375
+		},
+		{
+			"sample": "Sample 10",
+			"frequency": 0.0625
+		}
+	],
+	"Variant2": [{
+			"sample": "Sample 1",
+			"frequency": 0.754385965
+		},
+		{
+			"sample": "Sample 2",
+			"frequency": 0.686746988
+		},
+		{
+			"sample": "Sample 3",
+			"frequency": 0.888888889
+		},
+		{
+			"sample": "Sample 4",
+			"frequency": 0.75
+		},
+		{
+			"sample": "Sample 5",
+			"frequency": -1
+		},
+		{
+			"sample": "Sample 6",
+			"frequency": 0.928571429
+		},
+		{
+			"sample": "Sample 7",
+			"frequency": 0.928571429
+		},
+		{
+			"sample": "Sample 8",
+			"frequency": 0.882352941
+		},
+		{
+			"sample": "Sample 9",
+			"frequency": 0.8
+		},
+		{
+			"sample": "Sample 10",
+			"frequency": 0.957446809
+		}
+	]
+}]
